@@ -1,0 +1,8 @@
+github.com/ebitengine/purego v0.8.0 h1:JbqvnEzRvPpxhCJzJJ2y0RbiZ8nyjccVUrSM3q+GvvE=
+github.com/ebitengine/purego v0.8.0/go.mod h1:iIjxzd6CiRiOG0UyXP+V1+jWqUXVjPKLAI0mRfJZTmQ=
+github.com/gen2brain/go-fitz v1.24.14 h1:09weRkjVtLYNGo7l0J7DyOwBExbwi8SJ9h8YPhw9WEo=
+github.com/gen2brain/go-fitz v1.24.14/go.mod h1:0KaZeQgASc20Yp5R/pFzyy7SmP01XcoHKNF842U2/S4=
+github.com/jupiterrider/ffi v0.2.0 h1:tMM70PexgYNmV+WyaYhJgCvQAvtTCs3wXeILPutihnA=
+github.com/jupiterrider/ffi v0.2.0/go.mod h1:yqYqX5DdEccAsHeMn+6owkoI2llBLySVAF8dwCDZPVs=
+github.com/mdhender/semver v0.0.0-20240121182447-31da48bf9537 h1:7Ux/5351hvWxMbIdwLjdWGTrDKlS+N870pFt5kW2OoI=
+github.com/mdhender/semver v0.0.0-20240121182447-31da48bf9537/go.mod h1:mCbEE77BIdyn6yZkD06/4W+9Q6AldeZSL+1PQk9q0VY=

@@ -1,0 +1,12 @@
+*~
+*.exe
+*.pdf
+*.png
+*.swp
+*.tar
+*.tgz
+*.txt
+.DS_Store
+.idea/
+cfl/
+testdata/
