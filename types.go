@@ -23,18 +23,19 @@ type FAMILY int
 const (
 	FAMILY_NONE FAMILY = iota
 	FAMILY_COOPER
-	FAMILY_FLETCHER
-	FAMILY_HUGHES
-	FAMILY_NASH
-	FAMILY_PAYNE
 	FAMILY_WALKER
+	FAMILY_PAYNE
+	FAMILY_HUGHES
+	FAMILY_FLETCHER
+	FAMILY_NASH
 )
 
 type Actor struct {
-	Name       string // must be first name followed by last name to make the sort work
-	Rank       int    // from 1 through 9
-	EmployedBy FAMILY
-	Avatar     string
+	Name           string // must be first name followed by last name to make the sort work
+	Rank           int    // from 1 through 9
+	Benefactor     FAMILY
+	Avatar         string
+	Page, Row, Col int
 }
 
 // Compare returns the tie-fighter result (-1,0,1) of two actors
