@@ -38,23 +38,23 @@ var (
 		{Name: "A Miserable Shame", TheatricalValue: 13, Category: TRAGEDY, PointValue: 3, Page: 2, Row: 3, Col: 2},
 		{Name: "Polly's Peculiar Pranks", TheatricalValue: 13, Category: COMEDY, PointValue: 3, Page: 2, Row: 3, Col: 3},
 		// page 3, row 1
-		{Name: "", TheatricalValue: 14, Category: HISTORY, PointValue: 3, Page: 3, Row: 1, Col: 1},
-		{Name: "", TheatricalValue: 14, Category: TRAGEDY, PointValue: 3, Page: 3, Row: 1, Col: 2},
-		{Name: "", TheatricalValue: 15, Category: HISTORY, PointValue: 3, Page: 3, Row: 1, Col: 3, Benefactor: FAMILY_PAYNE},
+		{Name: "The War of the Lancasters", TheatricalValue: 14, Category: HISTORY, PointValue: 3, Page: 3, Row: 1, Col: 1},
+		{Name: "Gloria's Gambit", TheatricalValue: 14, Category: TRAGEDY, PointValue: 3, Page: 3, Row: 1, Col: 2},
+		{Name: "The Triumph (of Queen Boudica)", TheatricalValue: 15, Category: HISTORY, PointValue: 3, Page: 3, Row: 1, Col: 3, Benefactor: FAMILY_PAYNE},
 		// page 3, row 2
-		{Name: "", TheatricalValue: 15, Category: TRAGEDY, PointValue: 3, Page: 3, Row: 2, Col: 1, Benefactor: FAMILY_HUGHES},
-		{Name: "", TheatricalValue: 16, Category: COMEDY, PointValue: 3, Page: 3, Row: 2, Col: 2, Benefactor: FAMILY_FLETCHER},
-		{Name: "", TheatricalValue: 16, Category: HISTORY, PointValue: 3, Page: 3, Row: 2, Col: 3, Benefactor: FAMILY_WALKER},
+		{Name: "As With Anything Similar", TheatricalValue: 15, Category: TRAGEDY, PointValue: 3, Page: 3, Row: 2, Col: 1, Benefactor: FAMILY_HUGHES},
+		{Name: "An Apple for LIttle Frederick", TheatricalValue: 16, Category: COMEDY, PointValue: 3, Page: 3, Row: 2, Col: 2, Benefactor: FAMILY_FLETCHER},
+		{Name: "Empress Maud", TheatricalValue: 16, Category: HISTORY, PointValue: 3, Page: 3, Row: 2, Col: 3, Benefactor: FAMILY_WALKER},
 		// page 3, row 3
-		{Name: "", TheatricalValue: 17, Category: COMEDY, PointValue: 4, Page: 3, Row: 3, Col: 1},
-		{Name: "", TheatricalValue: 17, Category: TRAGEDY, PointValue: 4, Page: 3, Row: 3, Col: 2},
-		{Name: "", TheatricalValue: 18, Category: HISTORY, PointValue: 4, Page: 3, Row: 3, Col: 3, Benefactor: FAMILY_NASH},
+		{Name: "The Goats of Whimsy Town", TheatricalValue: 17, Category: COMEDY, PointValue: 4, Page: 3, Row: 3, Col: 1},
+		{Name: "Leopold's Lament", TheatricalValue: 17, Category: TRAGEDY, PointValue: 4, Page: 3, Row: 3, Col: 2},
+		{Name: "Alfred the Great", TheatricalValue: 18, Category: HISTORY, PointValue: 4, Page: 3, Row: 3, Col: 3, Benefactor: FAMILY_NASH},
 		// page 4, row 1
-		{Name: "", TheatricalValue: 18, Category: COMEDY, PointValue: 4, Page: 4, Row: 1, Col: 1, Benefactor: FAMILY_WALKER},
-		{Name: "", TheatricalValue: 19, Category: TRAGEDY, PointValue: 4, Page: 4, Row: 1, Col: 2, Benefactor: FAMILY_COOPER},
-		{Name: "", TheatricalValue: 19, Category: COMEDY, PointValue: 4, Page: 4, Row: 1, Col: 3, Benefactor: FAMILY_HUGHES},
+		{Name: "Magical Mirth", TheatricalValue: 18, Category: COMEDY, PointValue: 4, Page: 4, Row: 1, Col: 1, Benefactor: FAMILY_WALKER},
+		{Name: "Prattle of Piteous Portent", TheatricalValue: 19, Category: TRAGEDY, PointValue: 4, Page: 4, Row: 1, Col: 2, Benefactor: FAMILY_COOPER},
+		{Name: "Bottoms and Blossoms", TheatricalValue: 19, Category: COMEDY, PointValue: 4, Page: 4, Row: 1, Col: 3, Benefactor: FAMILY_HUGHES},
 		// page 4, row 2
-		{Name: "", TheatricalValue: 20, Category: HISTORY, PointValue: 4, Page: 4, Row: 2, Col: 1, Benefactor: FAMILY_PAYNE},
-		{Name: "", TheatricalValue: 20, Category: TRAGEDY, PointValue: 4, Page: 4, Row: 2, Col: 2, Benefactor: FAMILY_FLETCHER},
+		{Name: "The Norman Crown", TheatricalValue: 20, Category: HISTORY, PointValue: 4, Page: 4, Row: 2, Col: 1, Benefactor: FAMILY_PAYNE},
+		{Name: "The Wily Witches of Wackerfield", TheatricalValue: 20, Category: TRAGEDY, PointValue: 4, Page: 4, Row: 2, Col: 2, Benefactor: FAMILY_FLETCHER},
 	}
 )

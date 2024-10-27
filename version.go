@@ -7,5 +7,5 @@ import (
 )
 
 var (
-	version = semver.Version{Major: 0, Minor: 0, Patch: 0, PreRelease: "dev"}
+	version = semver.Version{Major: 0, Minor: 0, Patch: 1, PreRelease: "dev"}
 )
